@@ -1,4 +1,4 @@
-package list.reverselist;
+package link;
 
 /**
  * Description：单链表反转的链表结点

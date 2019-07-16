@@ -1,4 +1,4 @@
-package list.reverselist;
+package link;
 
 /**
  * Description leetcode question 206
@@ -7,7 +7,7 @@ package list.reverselist;
  * @author 吴瑾 (jin.wu@ucarinc.com)
  * @version 1.0 2019-07-08 20:42 by 吴瑾 (jin.wu@ucarinc.com) 创建
  */
-public class ReverseList {
+public class ReverseLink {
 
     /**
      * 反转单链表->递归解法
