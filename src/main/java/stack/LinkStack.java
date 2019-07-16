@@ -9,8 +9,6 @@ package stack;
 public class LinkStack<E> {
     private int count = 0;
 
-    private Object[] stack;
-
     //栈顶的结点
     private StackNode top;
 
