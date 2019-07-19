@@ -28,7 +28,6 @@ public class Array {
      */
     private int length;
 
-
     /**
      * 数组中存的数据量
      */
