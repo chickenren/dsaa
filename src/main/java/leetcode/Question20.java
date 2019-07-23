@@ -5,8 +5,8 @@ import java.util.Stack;
 /**
  * Description：ascII (=40 )=41 {=123 }=125 [=91 ]=93
  *
- * @author 吴瑾 (jin.wu@ucarinc.com)
- * @version 1.0 2019-07-15 16:37 by 吴瑾 (jin.wu@ucarinc.com) 创建
+ * @author 吴瑾
+ * @version 1.0 2019-07-15 16:37 by 吴瑾  创建
  */
 public class Question20 {
     public static void main(String[] args) {

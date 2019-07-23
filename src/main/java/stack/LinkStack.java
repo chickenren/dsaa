@@ -3,8 +3,8 @@ package stack;
 /**
  * Description：链表实现栈功能
  *
- * @author 吴瑾 (jin.wu@ucarinc.com)
- * @version 1.0 2019-07-16 09:35 by 吴瑾 (jin.wu@ucarinc.com) 创建
+ * @author 吴瑾 ( )
+ * @version 1.0 2019-07-16 09:35 by 吴瑾 ( ) 创建
  */
 public class LinkStack<E> {
     private int count = 0;

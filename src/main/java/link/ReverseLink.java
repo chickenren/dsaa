@@ -4,8 +4,8 @@ package link;
  * Description leetcode question 206
  * https://leetcode-cn.com/problems/reverse-linked-list/solution/tou-cha-fa-fan-zhuan-lian-biao-by-cartoon/
  *
- * @author 吴瑾 (jin.wu@ucarinc.com)
- * @version 1.0 2019-07-08 20:42 by 吴瑾 (jin.wu@ucarinc.com) 创建
+ * @author 吴瑾 ( )
+ * @version 1.0 2019-07-08 20:42 by 吴瑾 ( ) 创建
  */
 public class ReverseLink {
 

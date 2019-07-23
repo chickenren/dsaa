@@ -3,8 +3,8 @@ package link;
 /**
  * Description：单链表反转的链表结点
  *
- * @author 吴瑾 (jin.wu@ucarinc.com)
- * @version 1.0 2019-07-08 20:47 by 吴瑾 (jin.wu@ucarinc.com) 创建
+ * @author 吴瑾 ( )
+ * @version 1.0 2019-07-08 20:47 by 吴瑾 ( ) 创建
  */
 public class ReveseNode {
 

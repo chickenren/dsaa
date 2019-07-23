@@ -3,8 +3,8 @@ package leetcode;
 /**
  * Description：
  *
- * @author 吴瑾 (jin.wu@ucarinc.com)
- * @version 1.0 2019-07-05 15:03 by 吴瑾 (jin.wu@ucarinc.com) 创建
+ * @author 吴瑾
+ * @version 1.0 2019-07-05 15:03 by 吴瑾  创建
  */
 public class Question26 {
     public static void main(String[] args) {

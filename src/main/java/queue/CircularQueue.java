@@ -3,8 +3,8 @@ package queue;
 /**
  * Description：环形队列
  *
- * @author 吴瑾 (jin.wu@ucarinc.com)
- * @version 1.0 2019-07-23 11:12 by 吴瑾 (jin.wu@ucarinc.com) 创建
+ * @author 吴瑾 ( )
+ * @version 1.0 2019-07-23 11:12 by 吴瑾 ( ) 创建
  */
 public class CircularQueue {
 

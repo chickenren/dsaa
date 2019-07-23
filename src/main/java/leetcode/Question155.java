@@ -6,8 +6,8 @@ import java.util.Stack;
  * Description：最小栈
  * 通过辅助栈的方法来实现
  *
- * @author 吴瑾 (jin.wu@ucarinc.com)
- * @version 1.0 2019-07-23 16:04 by 吴瑾 (jin.wu@ucarinc.com) 创建
+ * @author 吴瑾
+ * @version 1.0 2019-07-23 16:04 by 吴瑾  创建
  */
 public class Question155 {
     private Stack<Integer> data;
